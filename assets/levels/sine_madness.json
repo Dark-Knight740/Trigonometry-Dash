@@ -1,0 +1,1 @@
+{"name": "Sine Madness", "difficulty": "hard", "obstacles": [{"type": "sine_wave", "position": {"x": 100, "y": 200}}, {"type": "sine_wave", "position": {"x": 300, "y": 400}}]}
